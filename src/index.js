@@ -6,6 +6,8 @@ import UserList from "./UserList";
 import searchContext from "./context";
 import * as serviceWorker from './serviceWorker';
 import UserRepo from './UserRepo';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 
 const root = document.getElementById('root');
