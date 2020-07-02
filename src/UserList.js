@@ -5,10 +5,6 @@ import UserRepo from "./UserRepo";
 import { Link } from 'react-router-dom';
 import {
   Card,
-  CardBlock,
-  CardFooter,
-  CardTitle,
-  CardText,
 } from 'react-bootstrap';
 
 function UserList() {
